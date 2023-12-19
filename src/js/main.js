@@ -54,6 +54,5 @@ function resetGame() {
     startGame();
 }
 
-// Инициализация игры при загрузке страницы
 window.onload = startGame;
 
